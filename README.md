@@ -10,7 +10,10 @@ Prerequisites: solid programming (Python), intro-level math (e.g. derivative, ga
 
 Learning is easier with others, come say hi in our Discord channel:
 
-Syllabus
+[![image](https://github.com/sinanazeri/Neural-Networks-Zero-to-Hero---with-Andrej-Karpathy/assets/121966646/60d0a961-dd89-41fd-a202-a26beb86d6c3)](https://discord.gg/3zy8kqD9Cp)
+
+
+## Syllabus
 
 https://youtu.be/VMj-3S1tku0
 
