@@ -13,6 +13,9 @@ Learning is easier with others, come say hi in our Discord channel:
 Syllabus
 - 2h25m The spelled-out intro to neural networks and backpropagation: building micrograd
 This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school.
+
+https://youtu.be/VMj-3S1tku0
+
 - 1h57m The spelled-out intro to language modeling: building makemore
 We implement a bigram character-level language model, which we will further complexify in followup videos into a modern Transformer language model, like GPT. In this video, the focus is on (1) introducing torch.Tensor and its subtleties and use in efficiently evaluating neural networks and (2) the overall framework of language modeling that includes model training, sampling, and the evaluation of a loss (e.g. the negative log likelihood for classification).
 - 1h15m Building makemore Part 2: MLP
